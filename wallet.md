@@ -1,0 +1,3 @@
+# artistDID Wallet Specification
+
+...
